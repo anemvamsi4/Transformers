@@ -52,7 +52,7 @@ Two approaches were considered:
 
 ## Results
 
-! [training loss curve](lyricGPT_training.png)
+![training loss curve] (lyricGPT_training.png)
 - **Training Performance:** Efficient use of GPU memory and resources with a consistent loss reduction.
 - **Text Generation:** The model generates coherent bilingual lyrics but shows some repetition, likely due to dataset limitations.
 - **Key Insights:** Demonstrates feasibility of training Transformer models for low-resource languages.
