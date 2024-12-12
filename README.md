@@ -33,7 +33,7 @@ Two approaches were considered:
 
 
 ## Training Details
-- **Hardware:** Nvidia P100 GPU (16GB memory).
+- **Hardware:** Tesla P100 GPU (16GB memory).
 - **Optimizer:** AdamW with weight decay.
 - **Learning Rate:** 3e-4
 - **Epochs:** 10.
